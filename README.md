@@ -133,23 +133,3 @@ docker run -p 80:80 frontend-app
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-
-### What’s Included in this README.md:
-
-- **Introduction**: Overview of the full-stack app, technologies used, and the features.
-- **Project Structure**: A clear breakdown of the project directories and files.
-- **Prerequisites**: Tools and technologies needed before running the project.
-- **Getting Started**: Steps to set up the backend and frontend locally.
-- **Docker Setup**: Instructions for containerizing both the backend and frontend.
-- **Deployment**: Basic steps for deploying on Kubernetes using AWS.
-- **License**: License for the project (optional, you can add if needed).
-
-### Customization:
-
-Feel free to adjust the content of the `README.md` as needed, such as:
-- Changing URLs (e.g., GitHub repository links).
-- Adding more detailed instructions for specific AWS or Kubernetes setup.
-- Adding screenshots or diagrams to make the README more visually engaging.
-```
